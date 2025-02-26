@@ -1,1 +1,1 @@
-Demo remote repo
+Demo of github remote repo
